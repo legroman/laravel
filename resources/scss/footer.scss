@@ -1,0 +1,22 @@
+/* Styling footer */
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .img-logo {
+        width: 45px;
+    }
+
+    .img-text {
+        width: 95px;
+    }
+}
+
+.footer__wrapper {
+    padding: 20px 0;
+}
+
+
+
+

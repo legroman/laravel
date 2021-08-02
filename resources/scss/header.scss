@@ -1,0 +1,17 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #B5B5BD;
+    &:hover {
+        color: white;
+    }
+}
+
+.navbar-light .navbar-nav .active {
+    color: white;
+    &:hover {
+        color: #B5B5BD;
+    }
+}
+
+.account li {
+    list-style: none;
+}
